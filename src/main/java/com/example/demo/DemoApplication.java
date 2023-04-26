@@ -29,7 +29,7 @@ public class DemoApplication {
 						21
 				),
 				new Student(
-						1L,
+						2L,
 						"Victor",
 						"Victor@gmail.com",
 						LocalDate.of(1996, Month.DECEMBER, 14),
